@@ -4,7 +4,6 @@ Hi 👋 My name is Aleksa
 I am an iOS Developer
 ---------------------
 
-* 🌍  I'm based in Moscow, Russia
 * 🚀  I'm currently working on [Rewind 2.0](http://github.com/AleksaKhruleva/Rewind-2.0)
 
 ### Skills
