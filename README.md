@@ -22,5 +22,4 @@ I am an iOS Developer
 
 ### Github Stats  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleksaKhruleva&hide_border=true&layout=compact" align="left" />
-<br />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AleksaKhruleva&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
