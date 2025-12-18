@@ -4,7 +4,7 @@ Hi 👋 My name is Aleksa
 I am an iOS Developer
 ---------------------
 
-* 🚀  I'm currently working on [Rewind 2.0](http://github.com/AleksaKhruleva/Rewind-2.0)
+* 🚀  I'm currently working on [Resonance](https://github.com/AleksaKhruleva/Resonance)
 
 ### Skills
 
